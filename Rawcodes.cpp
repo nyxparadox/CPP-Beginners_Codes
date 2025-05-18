@@ -1,4 +1,6 @@
 /*
+
+
 # include <iostream>
 using namespace std;
 
@@ -41,6 +43,11 @@ int main() {
 }
 
 
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
@@ -63,6 +70,13 @@ int main() {
     }
     return 0;
 }
+
+
+
+
+
+
+
 
 #include <iostream>
 using namespace std;
@@ -89,7 +103,15 @@ int main() {
 }
 
 
-//   PROGRAM FOR NUMBER PATTERN 
+
+
+
+
+
+
+
+
+//  ---------- PROGRAM FOR NUMBER PATTERN--------- 
 
 
 #include <iostream>
@@ -110,6 +132,12 @@ int main() {
     }
     return 0;
 }
+
+
+
+
+
+
 
 
 #include<iostream>
@@ -135,6 +163,10 @@ int main()
 
 
 
+
+
+
+
 #include<iostream>
 #include<stdlib.h>
 
@@ -155,6 +187,11 @@ int main()
   return 0;
 }
 
+
+
+
+
+//     STRUCTURE (BOOK INFORMATION SYSTEM)
 
 #include<iostream>
 #include<stdlib.h>
@@ -213,7 +250,7 @@ return 0;
 
 
 
-
+//     --------STRUCTUE (STUDENT DATA STORE)---------
 
 #include <iostream>
 #include <stdlib.h>
@@ -310,6 +347,8 @@ int main() {
 
 
 
+
+//        ------LIBRARRY MANAGMENT SYSTEM------
 
 #include <iostream>
 #include <vector>
@@ -456,6 +495,9 @@ int main() {
 
 
 
+
+//    ------EXAMPLE OF CLASS-------
+
 #include <iostream>
 using namespace std;
 
@@ -508,6 +550,9 @@ int main() {
 
 
 
+
+//    ---------OVERRIDING --------
+
 #include <iostream>
 using namespace std;
 
@@ -542,7 +587,7 @@ int main() {
  
 
 
-
+//       ------EXAMPLE OF ABSTRACT CLASS--------
 
 #include <iostream>
 using namespace std;
@@ -583,6 +628,10 @@ int main() {
 
 
 
+
+
+
+//    -------CODE FOR CONSTRUCTOR AND DISTRUCTOR-------
 
 #include <iostream>
 #include <string>

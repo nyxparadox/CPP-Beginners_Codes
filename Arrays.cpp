@@ -1,6 +1,6 @@
 /*
 
-//                      SUM OF N GIVEN NUMBER (without array)
+//          -------SUM OF N GIVEN NUMBER (without array)-------
 
 #include<iostream>
 #include<stdlib.h>
@@ -25,7 +25,10 @@ int main()
 
 
 
-//                    FINDING SUM OF N NUMBERS ( BY USING ARRAY)
+
+
+//       ------FINDING SUM OF N NUMBERS ( BY USING ARRAY)-------
+
 
 #include<iostream>
 #include<stdlib.h>
@@ -56,7 +59,7 @@ int main()
 
 */
 
-//            GREATEST AND SMALLEST NUMBER AMONG INPUT DATA
+//    ------- GREATEST AND SMALLEST NUMBER AMONG INPUT DATA----------
 
 
 

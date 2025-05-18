@@ -2,7 +2,7 @@
 
 // Question:1
 
-//                  Circumference and Area of the circle
+//             ------Circumference and Area of the circle------
 
 #include<iostream>
 
@@ -35,8 +35,12 @@ int main()
 
 
 
+
+
+
 // Question: 2
-//        average of first n +ve numbers added by user
+
+//       ------average of first n +ve numbers added by user------
 
 #include<iostream>
 
@@ -63,9 +67,10 @@ int main()
 
 
 
+
 //Question: 3
 
-//                     swap 2 numbers
+//              -------swap 2 numbers--------
 
 #include<iostream>
 
@@ -97,8 +102,11 @@ int main ()
 
 
 
+
+
+
 //Question: 4
-//                    sum of array elements
+//              ------sum of array elements------
 
 #include<iostream>
 
@@ -117,8 +125,10 @@ int main()
 
 
 
+
+
 // Question: 5
-//             +,-,x,/, of two numbers by menu form
+//--->                +,-,x,/, of two numbers by menu form
 
 #include<iostream>
 
@@ -185,8 +195,11 @@ int main()
 
 
 
+
+
+
 //Question: 6
-//                       Factorial of n number
+//               -------Factorial of n number-------
 
 
 #include<iostream>
@@ -216,7 +229,7 @@ int main(){
 
 
 //Question: 7
-//                Prime number or not
+//           ------Prime number or not-------
 
 #include<iostream>
 #include<stdlib.h>

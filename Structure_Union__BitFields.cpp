@@ -78,6 +78,9 @@ int main()
 
 
 
+
+
+
 #include<iostream>
 #include<stdlib.h>
 #include<stdio.h>
@@ -145,7 +148,7 @@ int main()
 
 
 
-//                       studnents data information 
+//              -----------studnents data information----------- 
 
 #include<iostream>
 #include<stdlib.h>
@@ -295,6 +298,13 @@ int main(){
     return 0;
 }
 */
+
+
+
+
+
+
+
 
 #include<iostream>
 using namespace  std;

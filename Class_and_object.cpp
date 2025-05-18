@@ -1,4 +1,5 @@
 /*
+//            -------STRUCTURE OF CLASS-------
 
 #include<iostream>
 #include<stdlib.h>
@@ -40,7 +41,7 @@ int main(){
 
 
 
-//                    friend function 
+//               -------friend function-------- 
 
 #include<iostream>
 #include<stdlib.h>
@@ -78,6 +79,9 @@ int main(){
 
     return 0;
 }
+
+
+
 
 
 
@@ -113,6 +117,10 @@ int main(){
     return 0;
 
 }
+
+
+
+
 
 
 #include<iostream>
@@ -167,7 +175,11 @@ using namespace std;
  }
 */
 
-//                        CONSTRUCTION
+
+
+
+
+//                ------ CONSTRUCTION -------
 #include<iostream>
 #include<stdlib.h>
 using namespace std;

@@ -1,4 +1,6 @@
 /*
+//             -------EXAMPLE OF POINTER
+
 #include<iostream>
 using namespace std;
 int main(){
@@ -11,6 +13,11 @@ int main(){
     cout<<endl;
     return 0;
 }
+
+
+
+
+
 
 //                      -----DICLARATION OF POINTER-----
 #include<iostream>
@@ -34,6 +41,12 @@ int main(){
     
     return 0;
 }
+
+
+
+
+
+
 
 
 //              -----POINTER AND SINGLE DIMMENSIONAL ARRAY----- 
@@ -64,6 +77,12 @@ int main(){
 }
 
 
+
+
+
+
+
+
 //                 ----POINTERS AND 2 DIMENSIONAL ARRAY----- 
 
 #include<iostream>
@@ -80,6 +99,13 @@ int main(){
     cout<<endl;
     return 0;
 }
+
+
+
+
+
+
+
 
 
 //                    -----SWAP TWO STRINGS----

@@ -1,6 +1,6 @@
 /*
 
-// single level inheritance
+//       ---------- single level inheritance -------------
 
 #include<iostream>
 #include<stdlib.h>
@@ -50,7 +50,9 @@ int main(){
 
 
 
-//                      multilevel inheritance
+
+
+//            -----------Multilevel inheritance ----------
 
 #include<iostream>
 #include<stdlib.h>
@@ -126,7 +128,7 @@ int main(){
 
 
 
-//                          multiple inheritance
+//               ---------- multiple inheritance ---------
 
 #include<iostream>
 #include<stdlib.h>
@@ -202,7 +204,7 @@ int main(){
 */
 
 
-//                      HIERARICHAL INHERITANCE 
+//               --------- HIERARICHAL INHERITANCE -----------
 
 #include<iostream>
 #include<stdlib.h>

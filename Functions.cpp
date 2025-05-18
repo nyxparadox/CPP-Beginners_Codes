@@ -1,6 +1,6 @@
 /*
 
-//                        FINDING OF FACTORIAL  
+//                  -------FINDING OF FACTORIAL-------  
  
 // method 1:
 
@@ -60,7 +60,10 @@ long int factorial (int a)
 
 
 
-//                    AREA OF CIRCLE AND SIMPLE INTREST CALCULATOR
+
+
+
+//         ------- AREA OF CIRCLE AND SIMPLE INTREST CALCULATOR -------
 
 
 #include<iostream>
